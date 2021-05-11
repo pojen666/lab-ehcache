@@ -1,0 +1,6 @@
+ehcache:
+  eternal: false
+  over-flow-to-off-heap: false
+  time-to-idle-seconds: 1
+  time-to-live-seconds: 2
+  max-entries-local-heap: 50
